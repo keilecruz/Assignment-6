@@ -1,4 +1,11 @@
 # Assignment-6
+
+## Deployed Application (Link from Render)
+
+The Triviabook API can be accessed here:
+
+https://assignment-6-t4ut.onrender.com/triviabook/topics
+
 ## Information about the Project
 This is a full-stack application with a Node and Express backend connected to a PostgreSQL database hosted on Neon. It allows users to retrieve trivia questions, check answers, filter questions by topic and difficulty, and even add new questions to the database.
 
